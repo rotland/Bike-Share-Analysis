@@ -36,7 +36,8 @@ Additionally, we have a dataset that includes the cost table, detailing the pric
 In this project, I performed data transformation using SQL to query and combine data before loading it into Power BI for visualization. 
 The diagram below illustrates my SQL queries prior to loading the data into Power BI for visualization.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/edd27261-ddde-4be3-8520-b802f71e8f64)
+
 
  
 
