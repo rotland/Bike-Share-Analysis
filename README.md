@@ -45,10 +45,47 @@ Finally, after loading the data from the database into Power BI, I created this 
 
 # Findings
 
-1. 
+**1. Revenue and Profit**
 
+Revenue: The total revenue is $15 million.
+
+Profit: The total profit is $10.45 million.
+
+Profit Margin: The profit margin is 45.35%, which indicates a healthy profitability ratio.
+
+**Riders**
+
+Total Riders: There are 3 million riders.
+
+**Rider Demographics:**
+
+**81.17%** of riders are registered users.
+
+**18.83%** of riders are casual users.
+
+**KPI Over Time**
+
+1. The graph indicates that both revenue and profit have an upward trend from January 2021 to December 2022.
+   
+2. The number of riders peaks in the summer months (June, July, and August), which coincides with higher average revenue and profit during these months.
+
+**Revenue by Season**
+
+Summer is the most profitable season, followed by Spring, Fall, and Winter.
+
+**Hourly Sales Data**
+
+**Peak Hours**: Higher earnings are noted during midday and early evening hours, particularly around 10 AM to 3 PM.
+
+**Daily Trends:**
+
+1. Wednesday and Friday show notably high sales, indicating these days are more profitable.
+ 
+2. The table suggests variability in hourly earnings, with some consistency in higher earnings during midday hours across the week.
+Summary
  
 # Recommendation
+
 **1.	Conservative Increase:** Given last year's significant price hike, a more modest increase this year would be wise to avoid reaching a price point that deters customers. A 10-15% increase would allow for a market test without jeopardizing a substantial loss of sales.
 
 **2. Price Setting:**
@@ -61,4 +98,5 @@ Finally, after loading the data from the database into Power BI, I created this 
 **4. Segmented Pricing Strategy:** Consider implementing tiered pricing for casual and registered users, as they may have different sensitivities to price changes.
 
 **5. Monitor and Adjust:** Introduce the new prices but be prepared to make adjustments based on immediate customer feedback and sales data. Close monitoring will enable fine-tuning of the pricing strategy without fully committing to a potentially unsustainable price point.
-Click here to see the Dashboard
+
+**click here to see the Dashboard :** https://app.powerbi.com/groups/me/reports/5918c235-a37c-4d0e-8f07-08ecc448724a/9ec3d316c6f6ac2b978c?ctid=7ea7688f-ae82-4587-ab44-ee56ade38051&experience=power-bi
